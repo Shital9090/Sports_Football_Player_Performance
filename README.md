@@ -1,10 +1,7 @@
 # ⚽ Football Pulse: Player, Team & Match Analytics Dashboard ⚽
 
 **Advanced Soccer Performance Insights**  
-**Built with Power BI** | ~1,000 Matches Analyzed | Real-World Football Data
-
-![Dashboard 1 Screenshot](link-to-player-team-overview-screenshot.png)  
-![Dashboard 2 Screenshot](link-to-match-results-insights-screenshot.png)
+**Built with Tableau** | ~1,000 Matches Analyzed | Real-World Football Data
 
 Interactive Power BI dashboards visualizing player contributions, team performance, match outcomes, and tactical insights from football matches.
 
@@ -14,7 +11,7 @@ Interactive Power BI dashboards visualizing player contributions, team performan
 
 **Domain:** Sports Analytics / Football (Soccer) Business Intelligence
 
-**Tools Used:** Power BI, DAX, Excel (data prep)
+**Tools Used:** Tableau, DAX, Excel (data prep)
 
 **Dataset Summary**  
 - ~1,000 matches (spanning ~2023–2024)  
@@ -28,6 +25,8 @@ Transform raw football match data into actionable insights for:
 - Fans & media → explore star players, goal contributions & game dynamics
 
 ## Dashboard 1: Player & Team Performance Overview
+
+![](https://github.com/Shital9090/Sports_Football_Player_Performance/blob/main/Player%20%26%20Team%20Performance%20Overview.png)
 
 **Key Metrics**  
 - Total Matches: 1,000  
@@ -47,6 +46,8 @@ Transform raw football match data into actionable insights for:
 - Strong correlation between goals & assists for creative midfielders/forwards
 
 ## Dashboard 2: Match Results & Game Insights
+
+![](https://github.com/Shital9090/Sports_Football_Player_Performance/blob/main/Match%20Results%20%26%20Game%20Insights.png)
 
 **Key Visuals**  
 - **Minutes Played vs Goals** (Stacked Bar): Player-level contribution over time  
