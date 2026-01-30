@@ -3,6 +3,8 @@
 **Advanced Soccer Performance Insights**  
 **Built with Tableau** | ~1,000 Matches Analyzed | Real-World Football Data
 
+![](https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_lg/f_auto/primary/dwo3ptv9guiqrkj1hfmc)
+
 Interactive Power BI dashboards visualizing player contributions, team performance, match outcomes, and tactical insights from football matches.
 
 ## Project Overview
